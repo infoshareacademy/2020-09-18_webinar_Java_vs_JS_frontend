@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.phone-book {
+  padding: 40px;
+  width: 700px;
+  background-color: aliceblue;
+  border-radius: 4px;
+
+}
